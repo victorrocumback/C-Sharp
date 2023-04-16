@@ -1,0 +1,8 @@
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\obj\Debug\Exercicios-PA.csproj.AssemblyReference.cache
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\obj\Debug\Exercicios-PA.csproj.SuggestedBindingRedirects.cache
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\obj\Debug\Exercicios-PA.csproj.CoreCompileInputs.cache
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\bin\Debug\Exercicios-PA.exe.config
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\bin\Debug\Exercicios-PA.exe
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\bin\Debug\Exercicios-PA.pdb
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\obj\Debug\Exercicios-PA.exe
+C:\Users\vibee\OneDrive\Documentos\estudos\C#\Exercicios-PA\Exercicios-PA\obj\Debug\Exercicios-PA.pdb
